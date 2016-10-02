@@ -1,0 +1,19 @@
+{
+  "name": "owl-carousel",
+  "version": "1.3.3",
+  "description": "### OwlCarousel ### >v.1.3.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveMiscampbell/OwlCarousel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaveMiscampbell/OwlCarousel/issues"
+  },
+  "homepage": "https://github.com/DaveMiscampbell/OwlCarousel#readme"
+}
